@@ -1,6 +1,6 @@
 # 🪵 Stronk Overview
 
-I am Marco, video streaming engineer, aspiring musician and owner of Stronk Tech: a software company with a dedication to release unlicensed, open-source software. On this page you can view all of our open-source contributions.
+We are Stronk Tech: a software company with a dedication to release unlicensed, open-source software. On this page you can view all of our open-source contributions.
 
 We have the intention to provide anyone open access to a complete media pipeline, from the backend media server to the frontend components required to consume content.
 
@@ -27,16 +27,6 @@ If you're in need of help for your media related projects, [contact us](https://
 <a href="https://discordapp.com/users/303504235927044097" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-%40captain.stronk-c0caf5?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F303504235927044097" alt="Discord" />
 </a>
-
-&nbsp;
-
-## Stronk Stats
-*(unfortunately [the script](https://github.com/anuraghazra/github-readme-stats) only indexes language usage of your own non-forked repo's, so 'Most Used Languages' is more 'Most used languages for personal side-projects')*
-
-<div align="center"> 
-    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/stats-tokyonight.svg" alt="Stronk Tech's Language stats" />
-    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/top-langs-tokyonight.svg" alt="Stronk Tech's Github stats" />
-</div>
 
 &nbsp;
 
