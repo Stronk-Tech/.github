@@ -1,6 +1,6 @@
 # 🪵 Stronk Overview
 
-We are Stronk Tech: a software company with a dedication to release unlicensed, open-source software. On this page you can view all of our open-source contributions.
+We are Stronk Tech: the open Video and AI stack for those moving beyond the cloud.
 
 We have the intention to provide anyone open access to a complete media pipeline, from the backend media server to the frontend components required to consume content.
 
